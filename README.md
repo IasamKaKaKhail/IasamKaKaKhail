@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iasam KaKaKhail</h1>
-<h3 align="center">A creative and passionate Full Stack Developer doing Bachelors in Computer Science from Ghulam Ishaq Khan Institute, Pakistan. Currently working as freelance full stack web and native developer. Learning SomeThing New EveryDay</h3>
+<h3 align="center">A creative and passionate Full Stack Developer doing Bachelors in Computer Science from Ghulam Ishaq Khan Institute, Pakistan. Currently working as a freelance full stack Web and Native developer. Learning SomeThing New EveryDay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iasamkakakhail&label=Profile%20views&color=0e75b6&style=flat" alt="iasamkakakhail" /> </p>
 
