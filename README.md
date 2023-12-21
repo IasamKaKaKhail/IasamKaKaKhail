@@ -7,13 +7,7 @@
  Currently working remotely as a freelance full stack Web and Native developer. </div>  
   
 
-- 🔭 I’m currently working on Podcast Streaming Market-Place  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: Full stack developers are like unicorns - everyone talks about them but they're hard to find! There's a lot of demand but not enough supply for these mythical developers who can handle front end, back end, database and everything in between  
+- 🔭 I’m currently working on Podcast Streaming MarketPlace 
   
 
 <br/>  
